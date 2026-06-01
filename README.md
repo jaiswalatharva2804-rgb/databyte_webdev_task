@@ -280,8 +280,7 @@ Use this to know when you're done:
 - [ ] Backend runs without errors (`uvicorn main:app --reload`)
 - [ ] `test.py` passes both dog and cat tests
 - [ ] Frontend opens in a browser
-- [ ] Uploading a dog image shows `"dog"` with high confidence
-- [ ] Uploading a cat image shows `"cat"` with high confidence
+- [ ] Uploading a digit image shows `"that digit"` with high confidence
 - [ ] The connection is WebSocket (not plain HTTP fetch)
 - [ ] No external AI API calls are made
 
